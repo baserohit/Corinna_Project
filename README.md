@@ -88,4 +88,4 @@ After onboarding, you’ll land on the **dashboard**, where you can:
 
 ## 9. Contact Support
 For assistance, reach out via the **Help & Support** tab in the dashboard or email the developer directly at:  
-📧 **rohitrdev@gmail.com**
+📧 **baserohit8@gmail.com**
